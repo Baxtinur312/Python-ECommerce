@@ -67,4 +67,5 @@ class Product:
                 products.append(cls.from_dict(item))
 
             return products
+        
     
